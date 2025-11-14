@@ -1,3 +1,3 @@
 # ankush-sihag-firststep
-This is my first repository
-author - Ankush Sihag
+This is my first repository.
+Author - Ankush Sihag
